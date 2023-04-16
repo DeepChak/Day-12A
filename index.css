@@ -1,0 +1,67 @@
+.mainbox{
+    border: 1px solid black;
+    height: 550px;
+    width: 1100px;
+    margin: 50px 120px;
+}
+.text{
+    margin: 30px 450px;
+    font-size: 30px;
+    font-family: cursive;
+}
+.text2{
+    margin: 40px 370px;
+    font-size: 20px;
+}
+.subbox{
+    border: 1px solid black;
+    height: 300px;
+    width: 1000px;
+    margin: 30px 48px;
+}
+.imagebox{
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    margin: 45px 48px;
+    text-align: center;
+}
+.text3{
+    margin: 10px 450px;
+    text-align: justify;
+}
+.coln{
+    height: 5px;
+    width: 50px;
+}
+
+.Deep{
+    margin-left: 450px;
+    text-align: justify;
+    padding: 10px;
+}
+button{
+    width: 182px;
+}
+.button{
+    padding: 15px;
+}
+input{
+    width: 230px;
+}
+label{
+    width: 200px;
+    text-align: end;
+}
+.Circle{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 45px;
+    border-radius: 70%;
+}
+.text4{
+    text-align: center;
+    padding: 33px;
+    font-family: cursive;
+}
